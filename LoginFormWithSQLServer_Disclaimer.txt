@@ -1,0 +1,11 @@
+Disclaimer - LoginFormWithSQLServer:
+
+LoginFormWithSQLServer is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. The author(s) of LoginFormWithSQLServer make no representations or warranties regarding the accuracy, completeness, or reliability of the software.
+
+Use of LoginFormWithSQLServer is entirely at your own risk. The author(s) shall not be liable for any damages, including but not limited to direct, indirect, special, incidental, or consequential damages or other losses arising out of the use of or inability to use LoginFormWithSQLServer.
+
+You are solely responsible for ensuring that your use of LoginFormWithSQLServer complies with all applicable laws and regulations. It is your responsibility to use LoginFormWithSQLServer for lawful and legitimate purposes.
+
+By using LoginFormWithSQLServer, you acknowledge that you have read this disclaimer and agree to its terms.
+
+
